@@ -25,7 +25,7 @@
 - 一个帮助我**学习OI的skill**：[OI.skill](https://github.com/FlashingChenn/oi.skill)，能够用苏格拉底学习法、跨session收集优点缺点来引导你不断学习的skill。有关本项目的[博客](https://blog.chenyuxia.com/archives/yong-wan-aiyan-jing-hui-liao-shou-fei-liao-yu-shi-wo-zuo-liao-ge-skill)。
 
 
-![Uploading ChatGPT_Image_2026年7月22日_16_43_10.png…]()
+<img width="1672" height="941" alt="ChatGPT_Image_2026年7月22日_16_43_10" src="https://github.com/user-attachments/assets/747c84bc-b67d-4bbd-93a4-c2754c84fc56" />
 
 
 ## 其他
