@@ -22,7 +22,7 @@
 
 - 团队参加**2026小红书黑客松巅峰赛**的项目：[薯医NoteRx](https://github.com/jiangmuran/noterx)，负责一部分的项目开发、宣传物料准备、服务器安全防护。目前（截止2026/4/26），项目累计送出300M+ Tokens，累计UV已超过**2W**。
 
-- 一个帮助我**学习OI的skill**：[OI.skill](https://github.com/FlashingChenn/oi.skill)，能够用苏格拉底学习法、跨session收集优点缺点来引导你不断学习的skill。有关本项目的[博客](https://blog.chenyuxia.com/archives/yong-wan-aiyan-jing-hui-liao-shou-fei-liao-yu-shi-wo-zuo-liao-ge-skill)。
+- 一个帮助我**学习OI的skill**：[OI.skill](https://github.com/FlashingChen/oi.skill)，能够用苏格拉底学习法、跨session收集优点缺点来引导你不断学习的skill。有关本项目的[博客](https://blog.chenyuxia.com/archives/yong-wan-aiyan-jing-hui-liao-shou-fei-liao-yu-shi-wo-zuo-liao-ge-skill)。
 
 
 <img width="1672" height="941" alt="ChatGPT_Image_2026年7月22日_16_43_10" src="https://github.com/user-attachments/assets/747c84bc-b67d-4bbd-93a4-c2754c84fc56" />
